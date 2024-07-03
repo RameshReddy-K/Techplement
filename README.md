@@ -12,11 +12,14 @@ Fork the repository.
 Make the fix.
 Submit a pull request to the project owner.
 
+# Project Info
 ![image](https://github.com/malli13193/Techplement/assets/115869610/87f74405-34c8-4908-99a6-638bdfe45186)
-The home page looks like this as all know git hub can host static web pages . We hosted it on [github pages](https://pages.github.com/) check the layout https://malli13193.github.io/Techplement/
+The home page looks like this as all know git hub can host static web pages . We hosted it on [github pages](https://pages.github.com/) 
+>check the layout https://malli13193.github.io/Techplement/
+
 > [!NOTE]
 > We want contributers who know about AWS or Azure cloud to deploy dynamic webpages.
 
 >Contributers
-@rameshreddy
-@malli13193
+[@RameshReddy-K](https://github.com/RameshReddy-K)
+[@malli13193](https://github.com/malli13193)
